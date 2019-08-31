@@ -3,8 +3,11 @@ import csv
 from time import sleep
 
 
-def scrape_fly_atlas2():
-    pass
+def scrape_fly_atlas2(gene_list_file: str, output_file: str):
+    # Function takes fly atlas gene list to generate text containing scraped gene info.
+    gene_name_list = read_in_file(gene_list_file)
+    gene_data_dict = request_all_gene_data(gene_name_list)
+    generate_output_text_file(gene_data_dict, output_file)
 
 
 def read_in_file(gene_list: str) -> list:
