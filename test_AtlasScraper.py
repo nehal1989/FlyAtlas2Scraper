@@ -2,7 +2,7 @@ import AtlasScraper
 
 def test_read_in_file():
 
-    output = AtlasScraper.read_in_file('test_data.csv')
+    output = AtlasScraper.read_in_file('test_data/test_data1.csv')
 
     # Check that output is a list
     assert isinstance(output, list)
