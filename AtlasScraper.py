@@ -41,6 +41,7 @@ def request_all_gene_data(gene_name_list: list) -> dict:
 
 
 def generate_output_text_file(gene_data_dict: dict, output_file_name: str):
+    # Function which takes gene data dictionary and makes a big text file for parsing in Pandas.
     for gene_info in gene_data_dict.values():
         with open(output_file_name, "a", encoding="utf-8") as file:
             file.write(gene_info)
