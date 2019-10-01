@@ -1,2 +1,4 @@
 # FlyAtlas2Scraper
+[![Build Status](https://travis-ci.org/nehal1989/FlyAtlas2Scraper.svg?branch=master)](https://travis-ci.org/nehal1989/FlyAtlas2Scraper)
+
 Python package to scrape FlyAtlas2 data.
