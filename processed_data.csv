@@ -399,3 +399,203 @@
 517,Accessory glands,2.67,0.6,0.28,-,-,-,-,-,-,-,-,FBgn0003520,CG5753,stau,staufen
 518,Carcass,5.72,1.02,0.61,5.48,0.46,0.51,1.04,n.s.,3.81,0.17,1.17,FBgn0003520,CG5753,stau,staufen
 519,Rectal pad,5.02,0.1,0.54,5.38,0.54,0.5,0.93,n.s.,-,-,-,FBgn0003520,CG5753,stau,staufen
+527,Whole body,656.92,18.34,1,1301.8,157.3,1,0.50,p > 0.05,1498.4,178.6,1,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+528,Head,853.25,77.94,1.3,1545.94,255.86,1.19,0.55,p > 0.05,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+529,Eye,708.8,121.91,1.08,1607.38,151.26,1.23,0.44,n.s.,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+530,Brain / CNS,380.67,27.05,0.58,467.4,92.1,0.36,0.81,n.s.,1068.12,57.11,0.71,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+531,Thoracicoabdominal ganglion,726.38,31.6,1.11,737.81,25.77,0.57,0.98,n.s.,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+532,Crop,1059.34,21.4,1.61,1359.95,6.46,1.04,0.78,n.s.,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+533,Midgut,1033.11,99.54,1.57,1533.4,174.08,1.18,0.67,p > 0.05,1026.52,66.24,0.69,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+534,Hindgut,1075.3,29.37,1.64,1263.62,81.04,0.97,0.85,p > 0.05,1470.42,290.4,0.98,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+535,Malpighian Tubules,1107.58,78.83,1.69,1499.63,85.33,1.15,0.74,p > 0.01,1159.4,71.25,0.77,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+536,Fat body,949.83,33.19,1.45,1375.22,119.37,1.06,0.69,p > 0.05,3290.06,261.23,2.2,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+537,Salivary gland,1320.28,82.8,2.01,1299.78,50.21,1,1.02,n.s.,2341.1,107.54,1.56,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+538,Heart,,,,,,,,,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+539,Trachea,-,-,-,-,-,-,-,-,1606.76,63.59,1.07,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+540,Ovary,-,-,-,1257.66,202.69,0.97,-,-,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+541,Virgin Spermatheca,-,-,-,748.07,102.58,0.57,-,-,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+542,Mated Spermatheca,-,-,-,883.79,165.4,0.68,-,-,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+543,Testis,328.89,17.55,0.5,-,-,-,-,-,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+544,Accessory glands,2856.32,127.92,4.35,-,-,-,-,-,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+545,Carcass,1162.19,235.79,1.77,1830.95,162.52,1.41,0.63,p > 0.05,2186.06,101.5,1.46,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+546,Rectal pad,1341.28,69.69,2.04,1470.83,158.29,1.13,0.91,n.s.,-,-,-,FBgn0024733,CG17521,RpL10,Ribosomal protein L10
+553,Whole body,543.54,58.93,1,969.49,26.86,1,0.56,p > 0.01,697.74,44.8,1,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+554,Head,693.63,82.26,1.28,1089.55,144.38,1.12,0.64,p > 0.05,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+555,Eye,606.99,91.47,1.12,1169.09,62.61,1.21,0.52,n.s.,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+556,Brain / CNS,213.83,14.41,0.39,250.29,38.33,0.26,0.85,n.s.,531.55,25.24,0.76,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+557,Thoracicoabdominal ganglion,447.89,6.17,0.82,473.37,43.33,0.49,0.95,n.s.,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+558,Crop,602.66,73.41,1.11,748.8,112,0.77,0.80,n.s.,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+559,Midgut,611.34,45.45,1.12,683.16,84.18,0.7,0.89,n.s.,680.28,26.31,0.97,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+560,Hindgut,506.85,17.6,0.93,630.53,42.56,0.65,0.80,p > 0.05,548.95,224.42,0.79,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+561,Malpighian Tubules,736.66,140.35,1.36,1058.32,281.97,1.09,0.70,n.s.,516.56,15.95,0.74,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+562,Fat body,517.92,35.06,0.95,729.27,65.09,0.75,0.71,p > 0.05,1594.74,140.63,2.29,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+563,Salivary gland,968.34,89.86,1.78,752.92,11.82,0.78,1.29,n.s.,1168.03,35,1.67,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+564,Heart,,,,,,,,,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+565,Trachea,-,-,-,-,-,-,-,-,682.21,38.14,0.98,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+566,Ovary,-,-,-,935.81,63.54,0.97,-,-,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+567,Virgin Spermatheca,-,-,-,416.21,69.04,0.43,-,-,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+568,Mated Spermatheca,-,-,-,478.82,78.39,0.49,-,-,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+569,Testis,269.88,51.95,0.5,-,-,-,-,-,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+570,Accessory glands,1354.47,112.58,2.49,-,-,-,-,-,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+571,Carcass,633.07,104.83,1.16,1025.96,171.76,1.06,0.62,p > 0.05,610.05,37.17,0.87,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+572,Rectal pad,698.13,35.26,1.28,669.03,17.87,0.69,1.04,n.s.,-,-,-,FBgn0034138,CG8332,RpS15,Ribosomal protein S15
+579,Whole body,82.57,1.66,1,76.23,4.01,1,1.08,n.s.,113.01,17.48,1,FBgn0039858,CG11525,CycG,Cyclin G
+580,Head,113.96,8.5,1.38,111.55,8.05,1.46,1.02,n.s.,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+581,Eye,207.61,14.51,2.51,164.84,7.85,2.16,1.26,n.s.,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+582,Brain / CNS,112.8,4.3,1.37,101.7,12.72,1.33,1.11,n.s.,78.69,2.3,0.7,FBgn0039858,CG11525,CycG,Cyclin G
+583,Thoracicoabdominal ganglion,121.2,10.97,1.47,123.05,7.3,1.61,0.98,n.s.,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+584,Crop,111.56,6.72,1.35,98.8,18.05,1.3,1.13,n.s.,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+585,Midgut,148.49,1.82,1.8,102.14,16.7,1.34,1.45,p > 0.05,262.75,17.14,2.33,FBgn0039858,CG11525,CycG,Cyclin G
+586,Hindgut,145.93,10.54,1.77,144.34,6.86,1.89,1.01,n.s.,128.06,27.84,1.13,FBgn0039858,CG11525,CycG,Cyclin G
+587,Malpighian Tubules,202.23,35.77,2.45,175.17,13.86,2.3,1.15,n.s.,248.55,38.24,2.2,FBgn0039858,CG11525,CycG,Cyclin G
+588,Fat body,99.11,9.84,1.2,93.23,5.98,1.22,1.06,n.s.,203.07,13.05,1.8,FBgn0039858,CG11525,CycG,Cyclin G
+589,Salivary gland,262.32,10.14,3.18,187.67,10.89,2.46,1.40,n.s.,170.88,20.43,1.51,FBgn0039858,CG11525,CycG,Cyclin G
+590,Heart,,,,,,,,,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+591,Trachea,-,-,-,-,-,-,-,-,114.2,7.7,1.01,FBgn0039858,CG11525,CycG,Cyclin G
+592,Ovary,-,-,-,75.61,5.71,0.99,-,-,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+593,Virgin Spermatheca,-,-,-,79.86,5.14,1.05,-,-,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+594,Mated Spermatheca,-,-,-,91.13,10.08,1.2,-,-,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+595,Testis,71.24,3.24,0.86,-,-,-,-,-,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+596,Accessory glands,121.49,10.74,1.47,-,-,-,-,-,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+597,Carcass,106.89,7.95,1.29,105.11,7.42,1.38,1.02,n.s.,140.36,3.14,1.24,FBgn0039858,CG11525,CycG,Cyclin G
+598,Rectal pad,108.23,10.36,1.31,109.37,0.38,1.43,0.99,n.s.,-,-,-,FBgn0039858,CG11525,CycG,Cyclin G
+605,Whole body,36.2,2.4,1,28.59,4.5,1,1.27,n.s.,29.88,1.99,1,FBgn0022959,CG5654,yps,ypsilon schachtel
+606,Head,45.61,3.9,1.26,51.15,5,1.79,0.89,n.s.,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+607,Eye,153.15,7.38,4.23,153.81,1.2,5.38,1.00,n.s.,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+608,Brain / CNS,23.71,0.74,0.65,24.75,1.59,0.87,0.96,n.s.,95.24,4.83,3.19,FBgn0022959,CG5654,yps,ypsilon schachtel
+609,Thoracicoabdominal ganglion,28.4,1.8,0.78,30.69,3.18,1.07,0.93,n.s.,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+610,Crop,40.91,2.35,1.13,45.69,12.5,1.6,0.90,n.s.,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+611,Midgut,21.56,1.13,0.6,20.07,3.84,0.7,1.07,n.s.,18.97,0.87,0.63,FBgn0022959,CG5654,yps,ypsilon schachtel
+612,Hindgut,26.76,1.77,0.74,25.76,1,0.9,1.04,n.s.,24.58,6.83,0.82,FBgn0022959,CG5654,yps,ypsilon schachtel
+613,Malpighian Tubules,17.6,2.71,0.49,20.62,4.01,0.72,0.85,n.s.,12.34,0.78,0.41,FBgn0022959,CG5654,yps,ypsilon schachtel
+614,Fat body,24.91,1.18,0.69,35.8,5.87,1.25,0.70,n.s.,41.9,4.47,1.4,FBgn0022959,CG5654,yps,ypsilon schachtel
+615,Salivary gland,40.43,2.02,1.12,32.2,3.68,1.13,1.26,n.s.,59.76,6.1,2,FBgn0022959,CG5654,yps,ypsilon schachtel
+616,Heart,,,,,,,,,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+617,Trachea,-,-,-,-,-,-,-,-,50.76,12.1,1.7,FBgn0022959,CG5654,yps,ypsilon schachtel
+618,Ovary,-,-,-,33.19,2.4,1.16,-,-,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+619,Virgin Spermatheca,-,-,-,36.28,2.99,1.27,-,-,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+620,Mated Spermatheca,-,-,-,40.52,10.35,1.42,-,-,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+621,Testis,120.14,7.65,3.32,-,-,-,-,-,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+622,Accessory glands,69.4,1.84,1.92,-,-,-,-,-,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+623,Carcass,35.51,9.4,0.98,45.85,5.4,1.6,0.77,n.s.,55.72,3.32,1.86,FBgn0022959,CG5654,yps,ypsilon schachtel
+624,Rectal pad,27.7,1.55,0.77,31.9,2.59,1.12,0.87,n.s.,-,-,-,FBgn0022959,CG5654,yps,ypsilon schachtel
+630,Whole body,5.98,0.42,1,2.49,0.17,1,2.4,p > 0.01,1.11,0.24,-1,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+631,Head,14.52,0.78,2.43,11.12,2.11,4.47,1.31,n.s.,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+632,Eye,13.0,2.82,2.17,8.29,0.7,3.33,1.57,n.s.,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+633,Brain / CNS,14.1,0.38,2.36,12.38,2.26,4.97,1.14,n.s.,6.4,1,3.2,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+634,Thoracicoabdominal ganglion,9.02,0.89,1.51,10.2,0.08,4.1,0.88,n.s.,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+635,Crop,8.34,0.07,1.39,7.09,1.56,2.85,1.18,n.s.,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+636,Midgut,1.45,0.51,0.24,0.26,0.08,0.1,1.00,n.s.,0.13,0.12,-1,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+637,Hindgut,6.44,0.34,1.08,5.59,0.58,2.24,1.15,n.s.,2.57,0.64,1.28,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+638,Malpighian Tubules,5.2,0.6,0.87,5.19,0.74,2.08,1.00,n.s.,1.05,0.38,-1,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+639,Fat body,1.15,0.2,0.19,1.34,0.23,0.54,1.00,n.s.,0.9,1.11,-1,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+640,Salivary gland,5.61,0.42,0.94,3.75,0.89,1.51,1.50,n.s.,0.61,0.12,-1,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+641,Heart,,,,,,,,,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+642,Trachea,-,-,-,-,-,-,-,-,8.15,2.01,4.08,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+643,Ovary,-,-,-,1.05,0.37,0.42,-,-,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+644,Virgin Spermatheca,-,-,-,2.96,0.8,1.19,-,-,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+645,Mated Spermatheca,-,-,-,3.43,0.33,1.38,-,-,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+646,Testis,1.4,0.52,0.23,-,-,-,-,-,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+647,Accessory glands,5.45,1.16,0.91,-,-,-,-,-,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+648,Carcass,2.82,0.48,0.47,2.64,0.72,1.06,1.07,n.s.,2.98,0.06,1.49,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+649,Rectal pad,7.7,0.38,1.29,6.64,0.25,2.67,1.16,n.s.,-,-,-,FBgn0085412,CG34383,CG34383,ypsilon schachtel
+656,Whole body,13.76,1.44,1,3.0,0.44,1,4.6,p > 0.01,0.79,0.12,-1,FBgn0003380,CG12348,Sh,Shaker
+657,Head,58.0,5.65,4.22,38.22,14.66,12.74,1.52,n.s.,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+658,Eye,35.3,11.46,2.57,22.92,0.84,7.64,1.54,n.s.,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+659,Brain / CNS,38.2,0.59,2.78,37.19,10.14,12.4,1.03,n.s.,5.24,0.55,2.62,FBgn0003380,CG12348,Sh,Shaker
+660,Thoracicoabdominal ganglion,40.82,7.3,2.97,44.69,3.82,14.9,0.91,n.s.,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+661,Crop,1.85,1.18,0.13,1.3,0.49,0.43,1.00,n.s.,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+662,Midgut,0.76,0.1,0.06,0.45,0.15,0.15,1.00,n.s.,0.48,0.22,-1,FBgn0003380,CG12348,Sh,Shaker
+663,Hindgut,1.3,0.17,0.09,0.61,0.22,0.2,1.00,p > 0.05,1.75,0.14,-1,FBgn0003380,CG12348,Sh,Shaker
+664,Malpighian Tubules,0.16,0.09,0.01,0.13,0.05,0.04,1.00,n.s.,0.03,0.05,-1,FBgn0003380,CG12348,Sh,Shaker
+665,Fat body,0.74,0.37,0.05,0.86,0.67,0.29,1.00,n.s.,0.12,0.14,-1,FBgn0003380,CG12348,Sh,Shaker
+666,Salivary gland,3.09,0.65,0.22,1.26,0.21,0.42,1.54,n.s.,0.62,0.26,-1,FBgn0003380,CG12348,Sh,Shaker
+667,Heart,,,,,,,,,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+668,Trachea,-,-,-,-,-,-,-,-,0.25,0.04,-1,FBgn0003380,CG12348,Sh,Shaker
+669,Ovary,-,-,-,0.03,0.03,0.01,-,-,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+670,Virgin Spermatheca,-,-,-,2.28,0.95,0.76,-,-,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+671,Mated Spermatheca,-,-,-,3.22,0.9,1.07,-,-,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+672,Testis,1.26,0.5,0.09,-,-,-,-,-,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+673,Accessory glands,0.13,0.09,0.01,-,-,-,-,-,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+674,Carcass,6.4,0.82,0.47,6.0,0.93,2,1.07,n.s.,2.47,0.19,1.24,FBgn0003380,CG12348,Sh,Shaker
+675,Rectal pad,1.86,0.4,0.14,2.31,0.35,0.77,0.87,n.s.,-,-,-,FBgn0003380,CG12348,Sh,Shaker
+682,Whole body,465.59,37.67,1,761.43,23.93,1,0.61,p > 0.01,710.62,39.1,1,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+683,Head,517.15,59.33,1.11,936.4,61.77,1.23,0.55,p > 0.01,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+684,Eye,664.09,81.49,1.43,1154.87,79.14,1.52,0.58,n.s.,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+685,Brain / CNS,254.07,8.61,0.55,308.56,59.15,0.41,0.82,n.s.,504.45,16.03,0.71,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+686,Thoracicoabdominal ganglion,539.89,48.01,1.16,533.77,50.58,0.7,1.01,n.s.,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+687,Crop,747.11,33.52,1.6,829.76,112.69,1.09,0.90,n.s.,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+688,Midgut,574.65,67.09,1.23,629.95,108.7,0.83,0.91,n.s.,612.22,40.49,0.86,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+689,Hindgut,675.05,31.8,1.45,749.21,48.27,0.98,0.90,n.s.,583.53,240.71,0.82,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+690,Malpighian Tubules,691.05,119.86,1.48,950.41,61.51,1.25,0.73,p > 0.05,493.55,7.51,0.69,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+691,Fat body,756.77,45.16,1.63,985.23,94.3,1.29,0.77,p > 0.05,1626.25,176.66,2.29,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+692,Salivary gland,934.0,101.5,2.01,744.0,39.82,0.98,1.26,n.s.,1183.61,43.72,1.67,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+693,Heart,,,,,,,,,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+694,Trachea,-,-,-,-,-,-,-,-,659.76,32.64,0.93,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+695,Ovary,-,-,-,822.05,80.18,1.08,-,-,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+696,Virgin Spermatheca,-,-,-,572.23,86.31,0.75,-,-,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+697,Mated Spermatheca,-,-,-,690.28,87.93,0.91,-,-,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+698,Testis,228.92,3.21,0.49,-,-,-,-,-,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+699,Accessory glands,1507.3,114.11,3.24,-,-,-,-,-,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+700,Carcass,673.27,109.85,1.45,1026.01,180.82,1.35,0.66,n.s.,585.02,25.16,0.82,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+701,Rectal pad,835.58,58.46,1.79,779.76,9.67,1.02,1.07,n.s.,-,-,-,FBgn0010411,CG8900,RpS18,Ribosomal protein S18
+708,Whole body,1066.71,397.62,1,2118.53,616.72,1,0.50,n.s.,2046.43,244.02,1,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+709,Head,2455.36,472.19,2.3,2608.76,"1,534.39",1.23,0.94,n.s.,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+710,Eye,1100.51,165.32,1.03,1901.53,167.59,0.9,0.58,n.s.,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+711,Brain / CNS,623.51,75.33,0.58,817.94,223.18,0.39,0.76,n.s.,1049.09,14.3,0.51,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+712,Thoracicoabdominal ganglion,1336.18,109.69,1.25,1141.86,54.24,0.54,1.17,n.s.,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+713,Crop,1323.3,58.65,1.24,1683.51,429.63,0.79,0.79,n.s.,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+714,Midgut,886.44,186.99,0.83,1646.35,206.26,0.78,0.54,p > 0.01,1298.86,137.04,0.63,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+715,Hindgut,1420.75,94.61,1.33,1428.8,92.39,0.67,0.99,n.s.,1953.21,369.94,0.95,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+716,Malpighian Tubules,1638.47,435.2,1.54,2755.79,"1,732.98",1.3,0.59,n.s.,1362.3,75.45,0.67,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+717,Fat body,1015.09,178.57,0.95,1389.84,154.81,0.66,0.73,n.s.,2200.21,201.84,1.08,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+718,Salivary gland,972.26,1.79,0.91,1039.37,139.07,0.49,0.94,n.s.,2002.2,79.03,0.98,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+719,Heart,,,,,,,,,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+720,Trachea,-,-,-,-,-,-,-,-,1515.38,39.83,0.74,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+721,Ovary,-,-,-,1702.16,443.07,0.8,-,-,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+722,Virgin Spermatheca,-,-,-,679.91,64.28,0.32,-,-,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+723,Mated Spermatheca,-,-,-,703.81,154.8,0.33,-,-,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+724,Testis,537.22,179.06,0.5,-,-,-,-,-,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+725,Accessory glands,2472.14,391.37,2.32,-,-,-,-,-,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+726,Carcass,1233.24,339.44,1.16,1562.14,174.61,0.74,0.79,n.s.,3023.02,287.36,1.48,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+727,Rectal pad,2223.03,189.27,2.08,2342.24,269.25,1.11,0.95,n.s.,-,-,-,FBgn0040007,CG18001,RpL38,Ribosomal protein L38
+734,Whole body,247.97,6.64,1,261.36,21.35,1,0.95,n.s.,434.84,87.72,1,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+735,Head,209.63,14.35,0.85,214.17,23.63,0.82,0.98,n.s.,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+736,Eye,324.77,16.94,1.31,289.87,16.72,1.11,1.12,n.s.,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+737,Brain / CNS,208.42,8.38,0.84,180.68,4.39,0.69,1.15,p > 0.05,746.22,11.26,1.72,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+738,Thoracicoabdominal ganglion,365.37,20.32,1.47,392.5,0.77,1.5,0.93,n.s.,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+739,Crop,251.49,13.02,1.01,296.18,88.41,1.13,0.85,n.s.,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+740,Midgut,194.55,29.29,0.78,214.24,22.45,0.82,0.91,n.s.,371.49,25.94,0.85,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+741,Hindgut,244.61,15.22,0.99,248.91,17.7,0.95,0.98,n.s.,661.37,244.69,1.52,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+742,Malpighian Tubules,109.49,28.66,0.44,123.05,6.3,0.47,0.89,n.s.,377.44,8.57,0.87,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+743,Fat body,85.25,5.36,0.34,71.24,18.93,0.27,1.20,n.s.,911.9,118,2.1,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+744,Salivary gland,163.15,7.85,0.66,138.52,55.62,0.53,1.18,n.s.,693.81,79.91,1.6,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+745,Heart,,,,,,,,,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+746,Trachea,-,-,-,-,-,-,-,-,749.27,57.55,1.72,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+747,Ovary,-,-,-,267.29,12.68,1.02,-,-,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+748,Virgin Spermatheca,-,-,-,93.75,12.25,0.36,-,-,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+749,Mated Spermatheca,-,-,-,124.14,43.78,0.47,-,-,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+750,Testis,1130.41,59.66,4.56,-,-,-,-,-,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+751,Accessory glands,156.46,30.99,0.63,-,-,-,-,-,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+752,Carcass,181.29,11.97,0.73,177.93,16.58,0.68,1.02,n.s.,662.59,36.75,1.52,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+753,Rectal pad,197.84,21.52,0.8,293.12,0.96,1.12,0.67,n.s.,-,-,-,FBgn0003884,CG1913,alphaTub84B,alpha-Tubulin at 84B
+760,Whole body,9.37,0.91,1,10.73,0.97,1,0.87,n.s.,3.26,0.22,1,FBgn0003520,CG5753,stau,staufen
+761,Head,16.68,1.66,1.78,13.28,1.96,1.24,1.26,n.s.,-,-,-,FBgn0003520,CG5753,stau,staufen
+762,Eye,24.39,4.27,2.6,15.5,1.11,1.44,1.57,n.s.,-,-,-,FBgn0003520,CG5753,stau,staufen
+763,Brain / CNS,13.25,0.66,1.41,11.16,2.22,1.04,1.19,n.s.,15.46,1.41,4.74,FBgn0003520,CG5753,stau,staufen
+764,Thoracicoabdominal ganglion,18.07,3.86,1.93,20.04,0.75,1.87,0.90,n.s.,-,-,-,FBgn0003520,CG5753,stau,staufen
+765,Crop,6.54,1.29,0.7,5.55,1.54,0.52,1.18,n.s.,-,-,-,FBgn0003520,CG5753,stau,staufen
+766,Midgut,6.12,0.72,0.65,2.99,0.19,0.28,2.0,p > 0.05,5.05,0.93,1.55,FBgn0003520,CG5753,stau,staufen
+767,Hindgut,4.82,0.55,0.51,4.77,0.42,0.44,1.01,n.s.,6.37,1.51,1.95,FBgn0003520,CG5753,stau,staufen
+768,Malpighian Tubules,3.6,0.4,0.38,3.7,0.58,0.34,0.97,n.s.,2.92,0.7,0.9,FBgn0003520,CG5753,stau,staufen
+769,Fat body,2.48,0.08,0.26,2.69,0.59,0.25,0.92,n.s.,2.84,0.38,0.87,FBgn0003520,CG5753,stau,staufen
+770,Salivary gland,7.29,0.46,0.78,6.34,1.72,0.59,1.15,n.s.,4.21,0.29,1.29,FBgn0003520,CG5753,stau,staufen
+771,Heart,,,,,,,,,-,-,-,FBgn0003520,CG5753,stau,staufen
+772,Trachea,-,-,-,-,-,-,-,-,5.81,1.07,1.78,FBgn0003520,CG5753,stau,staufen
+773,Ovary,-,-,-,12.94,0.2,1.21,-,-,-,-,-,FBgn0003520,CG5753,stau,staufen
+774,Virgin Spermatheca,-,-,-,4.24,1.01,0.4,-,-,-,-,-,FBgn0003520,CG5753,stau,staufen
+775,Mated Spermatheca,-,-,-,4.8,0.44,0.45,-,-,-,-,-,FBgn0003520,CG5753,stau,staufen
+776,Testis,6.97,1.26,0.74,-,-,-,-,-,-,-,-,FBgn0003520,CG5753,stau,staufen
+777,Accessory glands,2.67,0.6,0.28,-,-,-,-,-,-,-,-,FBgn0003520,CG5753,stau,staufen
+778,Carcass,5.72,1.02,0.61,5.48,0.46,0.51,1.04,n.s.,3.81,0.17,1.17,FBgn0003520,CG5753,stau,staufen
+779,Rectal pad,5.02,0.1,0.54,5.38,0.54,0.5,0.93,n.s.,-,-,-,FBgn0003520,CG5753,stau,staufen
