@@ -3,4 +3,4 @@
 
 Python package to scrape FlyAtlas2 data.
 
-To run the the scripts in this package it is recommende to use Anaconda.
+To run the the scripts in this package it is recommende to use Anaconda 3.7 or above.
