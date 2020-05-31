@@ -36,3 +36,9 @@ def test_get_gene_data_has_correct_error():
 def test_request_all_gene_data(test_data_2):
     # Check that output is a dictionary
     assert isinstance(AttScr.request_all_gene_data(test_data_2), dict)
+
+
+def test_request_all_gene_data_for_FBgn0000489_commas_removed():
+    gene_name = ['FBgn0000489']
+    gene_data = AttScr.request_all_gene_data(gene_name)
+    assert gene_data['FBgn0000489'].count(',') == 0

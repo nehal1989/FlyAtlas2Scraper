@@ -35,6 +35,7 @@ def request_all_gene_data(gene_name_list: list) -> dict:
     number_of_genes = len(gene_name_list)
     for idx, gene_name in enumerate(gene_name_list, 1):
         gene_data = get_gene_data(gene_name)
+        gene_data = gene_data.replace(',', ' or')
         sleep(1)
         gene_data_dict[gene_name] = gene_data
         print(
